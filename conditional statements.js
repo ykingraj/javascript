@@ -25,11 +25,9 @@ let x3 = 55
 if (x3<=10){
     console.log (x3 + " is smaller than 11")
 }
-
 else if (x3>=11 && x3<=60){
     console.log (x3 + " is greater than 10 and smaller than 61")
 }
-
 else {
     console.log (x3 + " is greater than 60")
 }
