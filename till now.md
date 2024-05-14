@@ -57,8 +57,8 @@ They are processed during the runtime.
     - Lesser than <
     - Not Equal !=
     - Strict Not Equal !==
-    - Greater than or Equal >=
-    - Lesser than or Equal <=
+    - Greater than or Equal to >=
+    - Lesser than or Equal to <=
 * Assignment Operators
     - 
     - Assignment =
