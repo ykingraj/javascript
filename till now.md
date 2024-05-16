@@ -1,4 +1,5 @@
 # Intro to JS
+- JavaScript is a programming language commonly used for web development. Initially created to add interactivity and dynamic behavior to web pages, it has evolved into a versatile language that can be used both on the client-side (in web browsers) and server-side (with platforms like Node.js). JavaScript is known for its flexibility, as it supports various programming paradigms such as procedural, object-oriented, and functional programming.
 # What is programming 
 # What is GIGO
 # Logic Gates
