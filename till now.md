@@ -92,16 +92,40 @@ They are processed during the runtime.
     - Here we can proveide multiple conditions and the condition which is true , it's block is executed.
     - First if's block, then else if , at last else.
 
+# Index
+* for string
+* for array
 # Loops 
 * for loop
+    -
+    -The for loop is a control flow statement that allows you to execute a block of code repeatedly. It consists of three parts: initialization, condition, and iteration statement.
+    -for (initialization; condition; iteration) {
+    // code block to be executed
+    }
 
 * for in loop
+    - loop is used to iterate over the enumerable properties of an object.
+    - for (variable in object) {
+    // code block to be executed
+    }
 
 * for of loop
+    -  is used to iterate over iterable objects such as arrays, strings, maps, sets, etc.
+    - for (variable of iterable) {
+    // code block to be executed
+    }
 
 * while loop
+    - loop executes a block of code as long as a specified condition is true. 
+    - while (condition) {
+    // code block to be executed
+    }
 
 * do while loop
+    - The do...while loop is similar to the while loop, but the condition is evaluated after executing the block of code, meaning the block of code will always execute at least once.
+    - do {
+    // code block to be executed
+    } while (condition);
 
 # Control Statements (Loop control statements)
 * Break
