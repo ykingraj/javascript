@@ -97,7 +97,6 @@ They are processed during the runtime.
 * for array
 # Loops 
 * for loop
-    -
     - The for loop is a control flow statement that allows you to execute a block of code repeatedly. It consists of three parts: initialization, condition, and iteration statement.
     - for (initialization; condition; iteration) {
     // code block to be executed
