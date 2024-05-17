@@ -16,19 +16,12 @@ Role: Structure and Content
 - CSS (Cascading Style Sheets)
 Role: Presentation and Style
     -
-    -styles the HTML elements, controlling the visual appearance.
+    - styles the HTML elements, controlling the visual appearance.
 
 - JavaScript
 Role: Interactivity and Behavior
     -
-    -adds interactivity, making the web page responsive to user actions.
-
-# Logic Gates
-- AND
-- OR
-- NOT
-- NOR
-- NAND
+    - adds interactivity, making the web page responsive to user actions.
 
 # Variables
 * Containers for holding values
@@ -95,6 +88,13 @@ They are processed during the runtime.
     - AND &&
     - OR ||
     - NOT !
+
+# Logic Gates
+- AND
+- OR
+- NOT
+- NOR
+- NAND
 
 # Interpreter V/S Complier
 * Interpreter
