@@ -1,9 +1,28 @@
-# Intro to JS
-- JavaScript is a programming language commonly used for web development. Initially created to add interactivity and dynamic behavior to web pages, it has evolved into a versatile language that can be used both on the client-side (in web browsers) and server-side (with platforms like Node.js). JavaScript is known for its flexibility, as it supports various programming paradigms such as procedural, object-oriented, and functional programming.
-# What is programming 
-- Programming is the process of designing and building computer programs or scripts to accomplish specific tasks or solve problems. It involves writing instructions that a computer can understand and execute to perform desired operations. Programming languages are used to communicate these instructions to the computer.
 # What is GIGO
 - GIGO stands for "Garbage In, Garbage Out." It is a principle in computing and data processing that emphasizes the importance of input quality. The principle states that if invalid, incorrect, or poor-quality input data (garbage) is provided to a system, the output (results) will also be flawed, inaccurate, or meaningless (garbage).
+
+# What is programming 
+- Programming is the process of designing and building computer programs or scripts to accomplish specific tasks or solve problems. It involves writing instructions that a computer can understand and execute to perform desired operations. Programming languages are used to communicate these instructions to the computer.
+
+# Components of a website / web devlopmment
+- HTML, CSS, and JavaScript are the three core technologies used in web development. Each of these technologies plays a distinct role in creating and managing the structure, style, and behavior of a website.  
+
+# Intro to JS
+- JavaScript is a programming language commonly used for web development. Initially created to add interactivity and dynamic behavior to web pages, it has evolved into a versatile language that can be used both on the client-side (in web browsers) and server-side (with platforms like Node.js). JavaScript is known for its flexibility, as it supports various programming paradigms such as procedural, object-oriented, and functional programming.
+- HTML (HyperText Markup Language)
+Role: Structure and Content
+    -
+    - provides the structure and content, defining the layout and elements of the page.
+- CSS (Cascading Style Sheets)
+Role: Presentation and Style
+    -
+    -styles the HTML elements, controlling the visual appearance.
+
+- JavaScript
+Role: Interactivity and Behavior
+    -
+    -adds interactivity, making the web page responsive to user actions.
+
 # Logic Gates
 - AND
 - OR
