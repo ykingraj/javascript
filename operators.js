@@ -1,16 +1,4 @@
-/*let x = 5
-let y = 10
+let x = "hello"
+let y = "world"
 
-x=99
-x = x + y
-
-x += y
-console.log (x)*/
-let x =57
-let y =7
-let t = false
-console.log ((x>=y) || (x===y))
-console.log (!t)
-
-
-
+console.log (x+y)
