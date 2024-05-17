@@ -3,6 +3,7 @@
 # What is programming 
 - Programming is the process of designing and building computer programs or scripts to accomplish specific tasks or solve problems. It involves writing instructions that a computer can understand and execute to perform desired operations. Programming languages are used to communicate these instructions to the computer.
 # What is GIGO
+- GIGO stands for "Garbage In, Garbage Out." It is a principle in computing and data processing that emphasizes the importance of input quality. The principle states that if invalid, incorrect, or poor-quality input data (garbage) is provided to a system, the output (results) will also be flawed, inaccurate, or meaningless (garbage).
 # Logic Gates
 - AND
 - OR
