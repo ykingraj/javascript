@@ -32,8 +32,24 @@ Role: Interactivity and Behavior
 * Can be combination of String and Numbers
 * Javascript is a dynamicly typed language, which means the single variable can be assigned different values throught out the programm (different datatypes).
 They are processed during the runtime.
- 
-# Data types
+
+# Constants 
+- Definition: Variables with values that cannot be changed once assigned.
+- Example: const PI = 3.14159;
+
+# Keywords 
+- Reserved words with special meanings in JavaScript.
+
+# Comments 
+-  Non-executable statements used to describe or explain the code.
+- Types:
+    - Single-line Comments: // This is a single-line comment
+    - Multi-line Comments:
+
+# Comments 
+- Non-executable statements used to describe or explain the code.
+
+# Data types - Different kinds of data that variables can hold.
 * Primitive Datatypes 
     -
     - String
@@ -43,16 +59,18 @@ They are processed during the runtime.
     - Undefined
 * Non Primitive Datatypes
     -
-    - Array
+    - Array - Ordered collections of values.
     - Objects
-    - Functions
+    - Functions - Blocks of code designed to perform a particular task, which can be executed when called.
     - Sets
     - Maps
 * Special Datatype
     -
     - BigInt
+* We use "typeof" operator to check the type of value/variable/objects.
+    - console.log(typeof 42)
 
-# Operatores
+# Operatores - Symbols that perform operations on variables and values.
 * Arithmetic Operators
     - 
     - Addition +
@@ -89,7 +107,14 @@ They are processed during the runtime.
     - OR ||
     - NOT !
 
+# Expressions
+- Combinations of values, variables, and operators that compute to a value.
+
+# Statements
+-  Instructions that perform actions
+
 # Logic Gates
+* Logic gates are fundamental building blocks used in digital electronics to perform logical operations on one or more binary inputs to produce a single binary output.
 - AND
 - OR
 - NOT
@@ -117,6 +142,7 @@ They are processed during the runtime.
 # Index
 * for string
 * for array
+
 # Loops 
 * for loop
     - The for loop is a control flow statement that allows you to execute a block of code repeatedly. It consists of three parts: initialization, condition, and iteration statement.
